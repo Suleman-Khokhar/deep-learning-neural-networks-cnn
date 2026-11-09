@@ -1,0 +1,26 @@
+# Deep Learning and Neural Networks Project
+# Recommended Python version: 3.12
+
+# Deep Learning Framework
+tensorflow==2.21.0
+
+# Numerical Computing
+numpy>=2.0,<3.0
+scipy>=1.14
+
+# Data Analysis
+pandas>=2.2
+
+# Data Visualization
+matplotlib>=3.9
+seaborn>=0.13
+
+# Machine Learning Utilities
+scikit-learn>=1.5
+
+# Jupyter Notebook Environment
+jupyter>=1.1
+ipykernel>=6.29
+
+# Image Processing
+Pillow>=10.0
